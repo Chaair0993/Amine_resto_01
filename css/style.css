@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0px 500px;
+    width: 500px;
+}
+
+
+header{
+    margin-right: 200px;
+    text-align: center;
+    margin-left: 25%;
+    background-color: white;
+}
+
+.jaune{
+    color: rgb(255, 203, 61);
+}
+
+.img1{
+    
+    float: left;
+    padding-left: 20px;
+    
+    
+}
+.container{
+    background: rgb(255,255,255);
+    background: linear-gradient(176deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 52%, rgba(217,217,217,1) 54%, rgba(235,235,235,1) 73%, rgba(224,224,224,1) 100%);  
+    width: 190%;
+}
+
+.imgsalle{
+    padding-top: 100px;
+    float: right;
+}
+
+.p4{
+    text-align: left;
+    width: 212px;
+    padding-left: 200px;
+    padding-top: 400px;
+}
+.note{
+    background-color: black;
+    color: white;
+    
+}
+
+
+.p1{
+    padding-right: 200px;
+    padding-top: 150px;
+    text-align: right;
+}
+
+.p2{
+    width: 100px;
+    width: 200px;
+    float: right;
+}
+
+.img3{
+    padding: 250px;
+    float: right;
+    padding-left: 20px;
+}
+
+.p6{
+    text-align: right;
+    padding: 150px;
+    padding-left: 100px;
+    text-align: left;
+    margin-left: 450px;
+}
+.imgservice{
+    float: left;
+}
+
+.imgdressage{
+    float: right;
+}
+.p8{
+    text-align: left;
+    padding: 150px;
+    padding-left: 100px;
+    text-align: left;
+    margin-right: 400px;
+}
+
+.imggout{
+    float: left;
+}
+
+footer{
+    height: 500px;
+}
+
+.p10{
+    text-align: right;
+    padding: 150px;
+    padding-left: 500px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.logo{
+   
+    text-align: center;
+   
+}
+
+.jaune{
+    color: rgb(200, 106, 39);
+    padding-top: 20px;
+}
